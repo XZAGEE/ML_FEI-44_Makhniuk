@@ -1,0 +1,7 @@
+Representation,Classifier,Accuracy,Balanced Accuracy,Macro F1,ROC-AUC
+Mean Pooling,SVM (RBF),1.0,1.0,1.0,1.0
+Mean Pooling,Logistic Regression,0.9942528735632183,0.9947916666666667,0.9941974855770834,1.0
+Mean Pooling,KNN,1.0,1.0,1.0,1.0
+TF-IDF Pooling,SVM (RBF),1.0,1.0,1.0,1.0
+TF-IDF Pooling,Logistic Regression,0.9942528735632183,0.9947916666666667,0.9941974855770834,1.0
+TF-IDF Pooling,KNN,1.0,1.0,1.0,1.0
